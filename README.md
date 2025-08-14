@@ -278,8 +278,10 @@ class LogSpider(scrapy.Spider):
             with open("screen.png", "wb") as f:
                 f.write(png_bytes)
 ```
+### it's repository work with **'Toscrape'**
+- https://quotes.toscrape.com/js/
 # OLX repository
-
+- https://github.com/bontonent/Loging_account_OLX.git
 ---
 # Source
 - https://scrapeops.io/python-scrapy-playbook/scrapy-splash/
