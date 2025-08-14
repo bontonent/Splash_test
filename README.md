@@ -278,5 +278,9 @@ class LogSpider(scrapy.Spider):
             with open("screen.png", "wb") as f:
                 f.write(png_bytes)
 ```
+# OLX repository
 
-
+---
+# Source
+- https://scrapeops.io/python-scrapy-playbook/scrapy-splash/
+- https://scrapeops.io/python-scrapy-playbook/scrapy-login-form/
